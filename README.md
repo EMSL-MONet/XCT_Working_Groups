@@ -6,6 +6,6 @@ This repository is associated with the 2024 MONet XCT Working Groups. The group 
 - [2nd Meeting](https://docs.google.com/document/d/1zosZ_KMlyuWM5LRIW2FjOmtrsY0eBSbBO4kP_XO73EE/edit?usp=sharing)
 - [2nd Meeting Recording](https://youtu.be/3aAGko80SKc?si=bz0LIFzOIKUoakgP)
 - [3rd Meeting](https://docs.google.com/document/d/1z8O4eXhCvPVr9HKCQUK2R3Tac92egGx8Ok6LATHsnWU/edit?usp=sharing)
-- [3rd Meeting Recording]()
+- [3rd Meeting Recording](https://www.youtube.com/watch?v=AfjhMWuEu1A)
 
 For questions regarding MONet working groups, contact Vanessa Garayburu-Caruso and Odeta Qafoku.
